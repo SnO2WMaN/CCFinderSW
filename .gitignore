@@ -8,3 +8,7 @@ result-*
 # gradle
 .gradle
 build/
+CCFinderSW-*
+
+# Intellij
+*.iml
